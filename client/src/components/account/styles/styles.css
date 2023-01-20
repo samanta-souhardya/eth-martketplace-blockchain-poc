@@ -1,0 +1,11 @@
+.account-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.account-container .panel-container {
+  border-radius: 5px;
+}
+.account-container .panel-container .copy {
+  cursor: pointer;
+}

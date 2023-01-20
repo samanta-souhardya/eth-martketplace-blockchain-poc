@@ -1,0 +1,9 @@
+.navbar {
+  padding: 5px;
+  margin-bottom: 20px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 15px;
+}
+.navbar .navbar-section .blockies .identicon {
+  border-radius: 5px;
+  margin-right: 5px;
+}

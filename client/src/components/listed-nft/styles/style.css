@@ -1,0 +1,25 @@
+.item-container {
+  padding: 5px;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.item-container .nft-item {
+  cursor: pointer;
+  height: 400px;
+  width: 250px;
+  border-radius: 5px;
+}
+.item-container .nft-item .image {
+  height: 280px;
+  width: auto;
+}
+.item-container .nft-item .blockies {
+  display: flex;
+}
+.item-container .nft-item .blockies .identicon {
+  border-radius: 2px;
+  margin-right: 5px;
+}
